@@ -7,10 +7,10 @@
 
 ### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end development.
+I'm studying on AWS-DevOps
 <br/>
 
-- Python, HTML5, CSS3, React, React Native, Git, GitHub
+- Python, HTML5, CSS3, Git, GitHub, SQL
 
 - 💬 Ask  me about anything that you want to learn
 
